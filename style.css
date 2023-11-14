@@ -1,0 +1,166 @@
+@media screen and (max-width:700px) {
+  .ss{
+    margin-left: -10px !important;
+    font-size: 15px !important;
+    text-align: start;
+  }
+  .back{
+    height: 300px !important;
+  }
+  .cs{
+    font-size: 17px;
+  }
+  .ups p{
+    font-size: 14px !important;
+  }
+  
+  
+  .dd{
+    margin-left: -10px !important;
+    font-size: 9px !important;
+    color: rgba(255, 255, 255, 0.671);
+  }
+  
+  .title{
+    margin-left: -60px !important;
+  }
+  .box2{
+    width: 15% !important;
+  }
+  .box2 img{
+   width: 90px !important;
+  }
+  .box3 a{
+    padding: 2px 12px !important;
+    margin-left: -12px !important;
+
+  }
+  .cards1{
+    width: 10rem !important;
+  }
+  .imgs{
+    width: 30px !important;
+  }
+  .titles{
+    font-size: 15px !important;
+  }
+  .lis{
+    font-size: 8px !important;
+  }
+
+  .cards2{
+    width: 10rem !important;
+  }
+  .imgs2{
+    width: 30px !important;
+  }
+  .titles2{
+    font-size: 15px !important;
+  }
+  .lis2{
+    font-size: 8px !important;
+  }
+ 
+
+  .cards3{
+    width: 10rem !important;
+  }
+  .imgs3{
+    width: 30px !important;
+  }
+  .titles3{
+    font-size: 15px !important;
+  }
+  .lis3{
+    font-size: 8px !important;
+  }
+ 
+  .headss{
+    font-weight:600 !important;
+    font-size: 16px !important;
+  }
+  .sp{
+    gap: 5px !important;
+  }
+  .backs{
+    height: 600px !important;
+  }
+  .buttons{
+   display:none !important;
+  }
+  
+  .hees{
+    height: 420px !important;
+    display: block !important;
+  }
+  .titles1{
+    margin-top: -80px !important;
+    margin-left: -50px !important;
+    font-size: 18px !important;
+  }
+  .para{
+    margin-left: -50px !important;
+    font-size: 7px !important;
+  }
+  .butt1{
+    width: 80px !important;
+  }
+  .butt2{
+    margin-top: 10px !important;
+    width: 80px !important;
+  }
+  .phone1{
+    width: 130px !important;
+  }
+  .phones{
+    margin-left: 40px !important;
+  }
+  .miss{
+    font-size: 20px !important;
+  }
+  .sub{
+    font-size: 10px 
+    !important;
+  }
+  .in{
+    margin-left: 10px !important;
+    width: 220px !important;
+  }
+  .form{
+    height: 300px !important;
+  }
+  .footer{
+    height: 460px !important;
+  }
+  .is{
+    height: 25px !important;
+  }
+  .cp{
+    padding-top: 5px !important;
+    font-size: 9px !important;
+  }
+ 
+}
+
+
+
+
+
+/* 
+@keyframes rotate{
+  form {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360);
+  }
+} */
+
+.rotate{
+
+ transition: all 5s ease-in-out;
+}
+.rotate:hover{
+  transform: rotate(360deg);
+}
+
